@@ -23,6 +23,7 @@ while True:
 
     elif opcion == "4":
         print("Gracias por visitar! Saliendo...")
+        break
     
     else:
         print("Opción inválida. Saliendo del programa...")

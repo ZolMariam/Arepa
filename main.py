@@ -21,9 +21,7 @@ while True:
         sitios = ("Tres lugares turísticos importantes en Maturín son la Catedral de Maturín, el Parque Zoológico La Guaricha y el Estadio Monumental de Maturín.")
         print(sitios)
 
-    elif opcion == "4":
-        print("Gracias por visitar! Saliendo...")
-        break
+#Salir???
     
     else:
         print("Opción inválida. Saliendo del programa...")

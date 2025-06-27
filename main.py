@@ -5,6 +5,7 @@ while True:
     print("1 - Breve historia")
     print("2 - Habitantes")
     print("3 - Sitios turísticos")
+    print("4 - Salir")
 
     opcion = input("\nEscoge una opción: ")
 
@@ -20,6 +21,9 @@ while True:
         sitios = ("Tres lugares turísticos importantes en Maturín son la Catedral de Maturín, el Parque Zoológico La Guaricha y el Estadio Monumental de Maturín.")
         print(sitios)
 
+    elif opcion == "4":
+        print("Gracias por visitar! Saliendo...")
+    
     else:
         print("Opción inválida. Saliendo del programa...")
         break

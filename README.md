@@ -1,2 +1,3 @@
 # Arepa
-De pabellon con aguacate (Practica)
+#Bienvenido a mi REPOSITORIO !!
+

@@ -26,3 +26,6 @@ while True:
     else:
         print("Opción inválida. Saliendo del programa...")
         break
+
+
+#cambio hecho el primer dia del mes 01/07/25

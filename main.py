@@ -29,3 +29,5 @@ while True:
 
 
 #cambio hecho el primer dia del mes 01/07/25
+
+#Mudanza elaborada el primer dia del mes cursante 02/07/25
